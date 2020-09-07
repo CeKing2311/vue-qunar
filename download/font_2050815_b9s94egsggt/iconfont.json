@@ -1,0 +1,44 @@
+{
+  "id": "2050815",
+  "name": "vue-qunar",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "563544",
+      "name": "location",
+      "font_class": "location",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "1160221",
+      "name": "search",
+      "font_class": "search",
+      "unicode": "e69a",
+      "unicode_decimal": 59034
+    },
+    {
+      "icon_id": "7685068",
+      "name": "down",
+      "font_class": "down",
+      "unicode": "e6f0",
+      "unicode_decimal": 59120
+    },
+    {
+      "icon_id": "13253776",
+      "name": "left",
+      "font_class": "left",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "13745124",
+      "name": "Global",
+      "font_class": "Global",
+      "unicode": "e6b1",
+      "unicode_decimal": 59057
+    }
+  ]
+}
